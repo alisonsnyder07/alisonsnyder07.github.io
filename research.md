@@ -1,10 +1,5 @@
 ---
 layout: page
-title: About me
----
-
----
-layout: page
 title: Research
 ---
 
