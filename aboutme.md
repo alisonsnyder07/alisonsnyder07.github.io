@@ -3,11 +3,6 @@ layout: page
 title: About me
 ---
 
----
-layout: page
-title: About me
----
-
 My name is Alison Snyder. I am a PhD student at UC Davis studying plant biology, focusing and the genetic and metabolic interactions between plant parasitic nematodes and their broad host range. The ultimate goal of my research is to identify different avenues to induce resistance against these agriculturally detrimental parasites that effect global agriculture 
 
 ### My story
